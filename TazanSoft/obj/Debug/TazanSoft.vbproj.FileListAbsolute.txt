@@ -1,0 +1,13 @@
+E:\TazanSoft\TazanSoft\bin\Debug\TazanSoft.exe.config
+E:\TazanSoft\TazanSoft\bin\Debug\TazanSoft.exe
+E:\TazanSoft\TazanSoft\bin\Debug\TazanSoft.pdb
+E:\TazanSoft\TazanSoft\bin\Debug\TazanSoft.xml
+E:\TazanSoft\TazanSoft\obj\Debug\TazanSoft.Resources.resources
+E:\TazanSoft\TazanSoft\obj\Debug\TazanSoft.vbproj.GenerateResource.Cache
+E:\TazanSoft\TazanSoft\obj\Debug\TazanSoft.exe
+E:\TazanSoft\TazanSoft\obj\Debug\TazanSoft.xml
+E:\TazanSoft\TazanSoft\obj\Debug\TazanSoft.pdb
+E:\TazanSoft\TazanSoft\obj\Debug\TazanSoft.fr1.resources
+E:\TazanSoft\TazanSoft\obj\Debug\TazanSoft.Form2.resources
+E:\TazanSoft\TazanSoft\obj\Debug\TazanSoft.update2.resources
+E:\TazanSoft\TazanSoft\obj\Debug\TazanSoft.vbprojResolveAssemblyReference.cache
